@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857113504270",
+    "project_id": "erik-93b5c",
+    "storage_bucket": "erik-93b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857113504270:android:897cae25316588b224ea5f",
+        "android_client_info": {
+          "package_name": "com.pdp.erik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857113504270-7511jiceh7n1affqkq7upfcutrs6f310.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCga-euCKiuMDtQwhKc9xlIY_BsAIu2uB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857113504270-7511jiceh7n1affqkq7upfcutrs6f310.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
